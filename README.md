@@ -9,4 +9,9 @@
 # Feature Importance
 ![Figure_3](https://github.com/user-attachments/assets/16e34c77-d131-4642-9895-71a59637b3dd)
 
-To run csv_file_details.py: streamlit run "path/to/csv_file_details.py"  
+## Running the CSV File Details App
+
+To launch the Streamlit app for `csv_file_details.py`, use the following command:
+
+```bash
+streamlit run path/to/csv_file_details.py
